@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.KtinBWyGngiPHjsCsjkAygHaCv&pid=Api&rs=1&c=1&qlt=95&w=272&h=100");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 10px 80px;
+}
